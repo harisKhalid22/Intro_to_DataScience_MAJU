@@ -1,0 +1,19 @@
+categorical - box plot.
+numerical - line graph.
+
+BoxPlots:
+- median - mostImp
+- upper extreme, lower extreme - outlier/anomaly detection.
+- IQR - Interquartile Range - 4 pieces
+	- median (Q2/50th Percentile): the middle value of the dataset.
+	- first quartile (Q1/25th Percentile): the middle number between the smallest number (not the “minimum”) and the median of the dataset.
+	- third quartile (Q3/75th Percentile): the middle value between the median and the highest value (not the “maximum”) of the dataset.
+	- interquartile range (IQR): 25th to the 75th percentile.
+
+ScatterPlot:
+- density of data - categorical max result max
+- dispersion - outlier detection.
+	How data is dispersed. (منتشر ہونا Muntashir Hona بکھر جانا Bikhar Jana)
+ 
+PieChart:
+- segmentation and % of available data.
